@@ -50,8 +50,8 @@ body{
 .bt{
     width: 116px;
     height: 34px;
-    border-top-left-radius: 30%;
-    border-bottom-left-radius: 30%;
+    border-top-left-radius: 40%;
+    border-bottom-left-radius: 40%;
     border-top-right-radius: 30%;
     border-bottom-right-radius: 30%;
     margin-bottom: 40px;
