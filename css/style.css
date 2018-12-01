@@ -52,8 +52,8 @@ body{
     height: 34px;
     border-top-left-radius: 40%;
     border-bottom-left-radius: 40%;
-    border-top-right-radius: 30%;
-    border-bottom-right-radius: 30%;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
     margin-bottom: 40px;
     border: 0px;
     display: block;
@@ -97,7 +97,7 @@ footer{
     }
     .bt {
         width: 120px;
-        height: 50px;                                                                                                                         px;
+        height: 40px;                                                                                                                         px;
     }
     .screen1{
     width:100%;
