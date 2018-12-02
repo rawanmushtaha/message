@@ -41,31 +41,34 @@ body{
     background-color: #D6D6D6;
     opacity: 0.6;
     color: #4F958C;
+    margin-bottom: 50px;
 }
 .sendMesg{
     background-color: transparent;
     font-size: 14.5pt;
 }
 
-.bt{
-    width: 116px;
-    height: 34px;
-    border-top-left-radius: 40%;
-    border-bottom-left-radius: 40%;
-    border-top-right-radius: 40%;
-    border-bottom-right-radius: 40%;
-    margin-bottom: 40px;
-    border: 0px;
+
+
+.send button {
+
+    border: 0 none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 12px;
+    height: 25px;
+    max-width: 85px;
+    width: 112px;
+    margin: 15px auto;
     display: block;
-    font-size: 14pt;
-
+    margin-bottom: 38px;
 }
+
 .bt1{
-    margin-top: 56px;
-    background-color: #EEBA1C;
-    color: #ffff;
+    background-color: #eeba1c;
+    color: #ffffff;
+    margin-top: 60px;
 }
-
 .bt2{
     background-color: #D6D6D6;
     color: #4F958C;
@@ -78,6 +81,7 @@ body{
 footer{
     height: 50px;
     background-color: #D6D6D6;
+    margin-top: 100px;
 }
 
 
@@ -92,13 +96,10 @@ footer{
         padding-right: 0px;
     }
 
-  
-    .bt {
-        width: 120px;
-        height: 40px;                                                                                                                        
-    }
+
+
     .screen1{
-    width:100%;
+        width:100%;
     }
 
 }
